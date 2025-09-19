@@ -15,3 +15,7 @@ Q3: What is the difference between Merging and rebasing
 
 Answer: merging essentially compiles all the commits for both files and tries to apply all of them in chronological commit history, which also preserves the overall commit history. Rebase however takes all the commits of the branch and sequentially applies each commit sequentiall on top of whatever is the current version of the base which is
 often main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about different applications that can be used to store, sort, and analyze data.
