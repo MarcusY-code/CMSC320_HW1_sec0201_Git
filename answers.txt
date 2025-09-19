@@ -1,0 +1,5 @@
+Q1: Why might we consider using git?
+
+Answer: There are several benefits including branch testing and general version
+control for the sake of debugging and having multiple people work on a peice of software 
+while keeping their work up to date with the current main branch and easily merging the different changes.
