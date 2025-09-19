@@ -7,6 +7,11 @@ while keeping their work up to date with the current main branch and easily merg
 
 Q2: What field could data science be applied to? Give an example.
 
-A common field would be in medicine, specifically using it to predict whether someone will have a disease
+Answer: A common field would be in medicine, specifically using it to predict whether someone will have a disease
 based on underlying conditions, whether genetic or environmental.
 
+
+Q3: What is the difference between Merging and rebasing
+
+Answer: merging essentially compiles all the commits for both files and tries to apply all of them in chronological commit history, which also preserves the overall commit history. Rebase however takes all the commits of the branch and sequentially applies each commit sequentiall on top of whatever is the current version of the base which is
+often main.
