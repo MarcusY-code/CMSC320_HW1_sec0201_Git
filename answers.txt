@@ -3,3 +3,10 @@ Q1: Why might we consider using git?
 Answer: There are several benefits including branch testing and general version
 control for the sake of debugging and having multiple people work on a peice of software 
 while keeping their work up to date with the current main branch and easily merging the different changes.
+
+
+Q2: What field could data science be applied to? Give an example.
+
+A common field would be in medicine, specifically using it to predict whether someone will have a disease
+based on underlying conditions, whether genetic or environmental.
+
