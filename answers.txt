@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an example.
+
+A common field would be in medicine, specifically using it to predict whether someone will have a disease
+based on underlying conditions, whether genetic or environmental.
